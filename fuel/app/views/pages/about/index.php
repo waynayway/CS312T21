@@ -4,7 +4,7 @@
     </header>
     <main>
         <h2>Cayce Kelley</h2>    
-            <p></p>
+            <p>I'm a third-year CS student here at Colorado State University.</p>
 
         <h2>Caleb Cluett</h2> 
             <p></p>
