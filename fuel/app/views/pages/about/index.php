@@ -7,7 +7,7 @@
             <p>I'm a third-year CS student here at Colorado State University.</p>
 
         <h2>Caleb Cluett</h2> 
-            <p></p>
+            <p>Hello</p>
 
         <h2>Member</h2> 
             <p></p>
