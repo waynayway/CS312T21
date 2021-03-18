@@ -10,6 +10,6 @@
             <p>I'm a Juniter in the Computer Science program. I'm also a member of the CSU Climbing Team</p>
 
         <h2>James West</h2> 
-            <p></p>
+            <p>Im a junior at Colorado State and enjoy to snowboard</p>
     </main>
 </body>
