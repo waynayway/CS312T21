@@ -3,6 +3,6 @@
         Welcome to the Home page
     </header>
     <main>
-        <p></p>
+        <p>This is the landing page for our CS312 Term Project.</p>
     </main>
 </body>
