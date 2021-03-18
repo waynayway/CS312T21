@@ -9,7 +9,7 @@
         <h2>Caleb Cluett</h2> 
             <p>Hello</p>
 
-        <h2>Member</h2> 
+        <h2>James West</h2> 
             <p></p>
     </main>
 </body>
